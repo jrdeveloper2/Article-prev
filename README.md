@@ -1,7 +1,7 @@
 # Frontend Mentor - Article-prev-component
 
-![Design preview for the article preview component coding challenge](![desktop-preview](https://github.com/jrdeveloper2/Article-prev-component/assets/77817102/bd173a17-4106-4f73-8c11-e95e182581e1)
-.)
+![desktop-preview](https://github.com/jrdeveloper2/Article-prev-component/assets/77817102/bd173a17-4106-4f73-8c11-e95e182581e1)
+
 
 ## Welcome! 👋
 
@@ -14,7 +14,7 @@ It's a solution of a newbie challange called "Article Preview Component" made by
 Here is the link of the challange-
 https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT
 
-Here is the solution site url - https://jrdeveloper2.github.io/Article-prev-component/
+Here is the solution site url - https://jrdeveloper2.github.io/Article-prev-component
 
 
 ## Built with
