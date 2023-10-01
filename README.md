@@ -14,7 +14,7 @@ It's a solution of a newbie challange called "Article Preview Component" made by
 Here is the link of the challange-
 https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT
 
-Here is the solution site url - https://jrdeveloper2.github.io/Article-prev-component
+Here is the solution site url -
 
 
 ## Built with
