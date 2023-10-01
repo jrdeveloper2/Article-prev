@@ -1,6 +1,7 @@
 # Frontend Mentor - Article-prev-component
 
-![Design preview for the article preview component coding challenge](.)
+![Design preview for the article preview component coding challenge](![desktop-preview](https://github.com/jrdeveloper2/Article-prev-component/assets/77817102/bd173a17-4106-4f73-8c11-e95e182581e1)
+.)
 
 ## Welcome! 👋
 
