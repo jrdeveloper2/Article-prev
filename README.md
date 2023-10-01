@@ -1,6 +1,6 @@
 # Frontend Mentor - Article-prev-component
 
-![Design preview for the article preview component coding challenge]()
+![Design preview for the article preview component coding challenge](.)
 
 ## Welcome! 👋
 
